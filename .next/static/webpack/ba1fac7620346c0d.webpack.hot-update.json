@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/single/[:id]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=%2Fhome%2Fwebskitters%2FDocuments%2Fnew%2Fpages%2Fsingle%2F%5B%3Aid%5D%2Findex.tsx&page=%2Fsingle%2F%5B%3Aid%5D!","./node_modules/next/router.js","./pages/single/[:id]/index.tsx"]}
